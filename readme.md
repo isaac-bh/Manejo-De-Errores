@@ -6,6 +6,8 @@ Se diseño esta API para mostrar 4 diferentes niveles de severidad que puede man
 
 Se crearón dos salidas del logger para mostrar lo que se puede hacer con Winston, una donde se imprime todo en consola y otra donde se guardan todos los eventos en un archivo .log, ademas de que se hace uso de la sentencia Try-Catch para que la API siga en ejecución despues de un error de ejecución.
 
+**En el archivo app.js se encuentra la API y el uso del logger, en el archivo logger.js se define y configura.**
+
 ---
 
 ## Instalación
